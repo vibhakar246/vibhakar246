@@ -1,16 +1,14 @@
 <div align="center">
 
-# 🚀 Vibhakar Kumar  
-### DevOps & Platform Engineer  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=4000&pause=1200&color=60A5FA&center=true&vCenter=true&width=520&lines=DevOps+%26+Platform+Engineering;Cloud+%7C+CI%2FCD+%7C+GitOps;Automation+%7C+Reliability+%7C+Scale)](https://git.io/typing-svg)
+<!-- Floating Animated Name (Light Green Theme) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=4200&pause=1200&color=10B981&center=true&vCenter=true&width=750&lines=Vibhakar+Kumar;DevOps+%26+Platform+Engineer;Cloud+%7C+CI%2FCD+%7C+GitOps;Automation+%7C+Reliability+%7C+Scale" />
 
 <p>
   <a href="https://linkedin.com/in/iamvibhakar-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vibhakarsingh@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vibhakar246">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white" />
@@ -23,10 +21,10 @@
 
 ## 👨‍💻 Professional Summary
 
-DevOps Engineer focused on **bridging development and production systems** through automation, observability, and cloud-native practices.  
-Experienced in designing **CI/CD pipelines**, **container platforms**, and **monitoring systems** that improve reliability, deployment speed, and operational visibility.
+DevOps & Platform Engineer focused on **bridging development and production systems** through automation, observability, and cloud-native practices.  
+Experienced in building **reliable CI/CD pipelines**, **container platforms**, and **monitoring stacks** that improve deployment speed and system stability.
 
-> 🔍 Interested in **GitOps**, **Platform Engineering**, and **Secure DevOps (DevSecOps)** workflows.
+> 🔍 Interests: **GitOps · Platform Engineering · DevSecOps · Cloud Automation**
 
 ---
 
@@ -63,8 +61,8 @@ Experienced in designing **CI/CD pipelines**, **container platforms**, and **mon
 
 ### 🚰 AquaFlow – Smart Water Delivery Platform
 **Stack:** Flask · Docker · Jenkins · MySQL  
-- Automated CI/CD pipeline
-- Containerized backend services
+- Automated CI/CD pipeline  
+- Fully containerized backend services  
 - Production-oriented deployment workflow  
 
 🔗 https://github.com/vibhakar246/AquaFlow-Smart-Water-Delivery-Platform
@@ -74,15 +72,15 @@ Experienced in designing **CI/CD pipelines**, **container platforms**, and **mon
 ### 🔄 GitOps Kubernetes Deployment
 **Stack:** Kubernetes · ArgoCD · Helm  
 - Declarative infrastructure management  
-- Automated sync & rollback strategies  
-- Git-driven deployment lifecycle  
+- Git-driven deployments  
+- Automated rollback strategies  
 
 ---
 
 ### ☁️ AWS EKS Monitoring Stack
 **Stack:** AWS · EKS · Prometheus · Grafana  
 - Cluster-level observability  
-- Metrics, dashboards & alerting  
+- Real-time metrics & alerting  
 - Production monitoring patterns  
 
 ---
@@ -95,10 +93,10 @@ Experienced in designing **CI/CD pipelines**, **container platforms**, and **mon
 
 ---
 
-## 📈 DevOps Skill Distribution
+## 📈 DevOps Skill Focus
 
 ```mermaid
-pie title DevOps Skill Focus
+pie title DevOps Skill Distribution
     "Cloud & Infrastructure" : 30
     "Containers & Kubernetes" : 25
     "CI/CD & GitOps" : 25
