@@ -16,66 +16,76 @@
 
 ---
 
-### ⚡ Quick Stats & Impact
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibhakar246&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-<br>
-**☁️ 99.9% Uptime Mindset | 🚀 50% Faster Deployments | 🛠️ GitOps Evangelist**
+### 🛠️ Strategic Impact
+**☁️ High-Availability Architecture | 🚀 Automated CI/CD Pipelines | 🔒 DevSecOps Integration**
+*Expertise in reducing deployment lead times and optimizing cloud expenditure.*
 
 </div>
 
 ## 🚀 Professional Profile
 
-I am a **Senior DevOps & Platform Engineer** dedicated to building the "paved road" for developers. I specialize in high-scale infrastructure, **GitOps workflows**, and **observability-driven operations**. My goal is to bridge the gap between complex distributed systems and seamless developer experiences.
-
-> **Engineering Philosophy:** *"Automate the mundane to engineer the exceptional. If it’s manual, it’s a bug waiting to happen."*
+I am a **Senior DevOps & Platform Engineer** specializing in building resilient, self-healing infrastructure. I focus on the **Developer Experience (DevEx)** by creating "paved roads" that allow engineering teams to ship code faster and more securely using GitOps and Cloud-Native patterns.
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🏗️ Technical Stack
 
-### **🏗️ Infrastructure & Cloud**
-| Category | Tools |
-| :--- | :--- |
-| **Cloud Platforms** | `AWS`, `GCP`, `Azure` |
-| **IaC** | `Terraform`, `Pulumi`, `Ansible`, `CloudFormation` |
-| **Containers** | `Kubernetes (EKS/GKE)`, `Docker`, `Helm`, `Istio Service Mesh` |
+### **Cloud & Infrastructure as Code**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+</p>
 
-### **🔄 CI/CD & GitOps**
-| Category | Tools |
-| :--- | :--- |
-| **Orchestration** | `ArgoCD`, `FluxCD`, `Jenkins`, `GitHub Actions`, `GitLab CI` |
-| **Registry** | `Harbor`, `ECR`, `Artifactory` |
+### **Containerization & Orchestration**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
+</p>
 
-### **📊 Observability & SRE**
-| Category | Tools |
-| :--- | :--- |
-| **Monitoring** | `Prometheus`, `Grafana`, `Loki`, `Datadog` |
-| **Tracing/Logging** | `Jaeger`, `ELK Stack (Elasticsearch, Logstash, Kibana)` |
+### **CI/CD & GitOps Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
-### **💻 Development**
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | `Go`, `Python`, `Bash`, `TypeScript` |
-| **Others** | `Linux (Ubuntu/CentOS)`, `Nginx`, `PostgreSQL`, `Redis` |
+### **Observability & SRE Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-607D8B?style=for-the-badge&logo=jaeger&logoColor=white" />
+</p>
+
+### **Programming & Scripting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 ---
 
-## 📈 Expertise Distribution
+## 📊 Expertise Matrix
 
 ```mermaid
 quadrantChart
-    title "Skill Matrix: Implementation vs. Strategy"
-    x-axis "Operational Focus" --> "Strategic/Architecture Focus"
+    title "DevOps Domain Proficiency"
+    x-axis "Development" --> "Operations"
     y-axis "Foundational" --> "Advanced"
-    quadrant-1 "Primary Strike Zone"
-    quadrant-2 "Core Engineering"
-    quadrant-3 "Supporting Tech"
-    quadrant-4 "Platform Vision"
-    
-    "Kubernetes": [0.9, 0.95]
-    "Terraform": [0.85, 0.88]
-    "ArgoCD/GitOps": [0.78, 0.92]
-    "AWS/GCP": [0.75, 0.85]
-    "Prometheus/Grafana": [0.7, 0.82]
-    "Python/Go": [0.65, 0.60]
-    "System Design": [0.85, 0.75]
+    quadrant-1 "Cloud Native Guru"
+    quadrant-2 "Automation Architect"
+    quadrant-3 "Legacy Migration"
+    quadrant-4 "SRE & Stability"
+    "Terraform": [0.3, 0.85]
+    "Kubernetes": [0.6, 0.95]
+    "ArgoCD": [0.4, 0.9]
+    "AWS/GCP": [0.7, 0.8]
+    "Python/Go": [0.2, 0.6]
+    "Prometheus": [0.8, 0.85]
