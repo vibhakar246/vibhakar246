@@ -24,7 +24,7 @@
 
 ## 🚀 Professional Profile
 
-I am a **Senior DevOps & Platform Engineer** specializing in building resilient, self-healing infrastructure. I focus on the **Developer Experience (DevEx)** by creating "paved roads" that allow engineering teams to ship code faster and more securely using GitOps and Cloud-Native patterns.
+I am a ** DevOps & Platform Engineer** specializing in building resilient, self-healing infrastructure. I focus on the **Developer Experience (DevEx)** by creating "paved roads" that allow engineering teams to ship code faster and more securely using GitOps and Cloud-Native patterns.
 
 ---
 
